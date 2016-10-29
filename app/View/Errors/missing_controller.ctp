@@ -1,0 +1,1 @@
+<div class="not_found"><img src="/img/404.png" /></div>
